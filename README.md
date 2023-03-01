@@ -1,1 +1,2 @@
-My first readme
+HELLO WORLD
+WE'RE READY FOR THE NEXT STEP
